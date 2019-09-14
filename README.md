@@ -23,7 +23,7 @@ To run the test suite of this repository (all plugins)
 1. Clone the full repo:
 
 ```shell
-[PEDNING]
+git clone https://github.com/ustart-dev/ustart-plugins.git
 ```
 
 2. Move to `test` folder and install all dependencies
