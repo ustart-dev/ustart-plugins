@@ -1,0 +1,20 @@
+type Parameter {
+  id: String,
+  value: String,
+  type: String
+}
+
+type Query {
+  allParameter: [Parameter]
+
+  parameter (
+    id: String!
+  ): Parameter
+}
+
+type Mutation {
+  editParameter(
+    id: String!,
+    value: String!
+  ): Parameter
+}

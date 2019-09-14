@@ -1,0 +1,11 @@
+type Comuna {
+  id: Int
+  name: String
+  regionId: Int
+}
+
+type Query {
+  allComunas: [Comuna]
+
+  comunasByRegion(regionId: Int!): [Comuna]
+}

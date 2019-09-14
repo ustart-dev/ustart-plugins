@@ -1,0 +1,18 @@
+export const regionsData = [
+  { id: 1, name: "Tarapacá" },
+  { id: 2, name: "Antofagasta" },
+  { id: 3, name: "Atacama" },
+  { id: 4, name: "Coquimbo" },
+  { id: 5, name: "Valparaíso" },
+  { id: 6, name: "Región del Libertador Gral. Bernardo O'Higgins" },
+  { id: 7, name: "Región del Maule" },
+  { id: 8, name: "Región del Biobío" },
+  { id: 9, name: "Región de la Araucanía" },
+  { id: 10, name: "Región de Los Lagos" },
+  { id: 11, name: "Región Aisén del Gral. Carlos Ibáñez del Campo" },
+  { id: 12, name: "Región de Magallanes y de la Antártica Chilena" },
+  { id: 13, name: "Región Metropolitana de Santiago" },
+  { id: 14, name: "Región de Los Ríos" },
+  { id: 15, name: "Arica y Parinacota" },
+  { id: 16, name: "Región de Ñuble" },
+];

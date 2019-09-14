@@ -1,0 +1,8 @@
+type Region {
+  id: Int
+  name: String
+}
+
+type Query {
+  allRegions: [Region]
+}
