@@ -6,13 +6,11 @@ This repository contains the official plugins for [uStart framework](https://ust
 
 Currently there are 3 plugins:
 
-1. regions of Chile: It provides seed data, queries and testing.
-2. comunas of Chile: It provides seed data, queries and testing. It works as a standalone package or together with regions of Chile.
-3. parameters: It provides queries and mutations. It is intended to be use as global settings for a platform. For instance: rate limits, subscription prices, enable hidden features, etc.
+1. [regions of Chile](https://github.com/ustart-dev/ustart-plugins/tree/master/src/regions-of-chile): It provides seed data, queries and testing.
+2. [comunas of Chile](https://github.com/ustart-dev/ustart-plugins/tree/master/src/comunas-of-chile): It provides seed data, queries and testing. It works as a standalone package or together with regions of Chile.
+3. [parameters](https://github.com/ustart-dev/ustart-plugins/tree/master/src/parameters): It provides queries and mutations. It is intended to be use as global settings for a platform. For instance: rate limits, subscription prices, enable hidden features, etc.
 
 > Refer to each plugin for installation instructions and more details.
-
-Read the documentation in [ustart.dev](https://ustart.dev).
 
 If you like it, remember to give a star ;-)
 
